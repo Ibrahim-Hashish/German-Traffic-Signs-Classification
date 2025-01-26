@@ -31,5 +31,8 @@ streamlit run app.py
 ## Screenshots
 ![App Interface](App_Interface.png)
 
+## App Link
+https://germantrafficsignsclassification-hjjgol4ycx5hjn3mwuu4ge.streamlit.app/
+
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request to improve the project.
